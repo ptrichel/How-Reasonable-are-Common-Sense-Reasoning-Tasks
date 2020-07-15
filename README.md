@@ -5,6 +5,6 @@ This repository contains two datasets : the original WSC with the switched versi
 
 ### Files
 
-* WSC_associative_label.json contains the original sentence *sentence*, a binary label which indicates if the two candidates in the sentence can be switched *is_switchable*, and the switched version of the sentence *sentence_switched*. 
+* WSC_switchable_label.json contains the original sentence *sentence*, a binary label which indicates if the two candidates in the sentence can be switched *is_switchable*, and the switched version of the sentence *sentence_switched*. 
 
 * WSC_associative_label.json contains the orginal sentence *sentence* and a binary label *is_associative* which indicates if one candidate antecedent associates strongly with the clause containing the pronoun.
